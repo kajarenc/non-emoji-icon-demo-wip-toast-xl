@@ -5,7 +5,7 @@ st.set_page_config(
 )
 
 
-st.subheader("Demo app for non emoji icons")
+st.subheader("Demo app for non emoji icons, toast icon size XL")
 
 with st.chat_message("user", avatar=":material/AddCircle:"):
     st.write("Hello from USER 👋")
